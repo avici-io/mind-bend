@@ -1,0 +1,18 @@
+{
+  "nextFreeModuleId": 4,
+  "modules": {
+    "byIdentifier": {
+      "app\\app.js": 0,
+      "node_modules\\vue\\dist\\vue.common.js": 1,
+      "..\\..\\AppData\\Roaming\\npm\\node_modules\\webpack\\node_modules\\process\\browser.js": 2,
+      "node_modules\\jquery\\dist\\jquery.js": 3
+    }
+  },
+  "nextFreeChunkId": 1,
+  "chunks": {
+    "byName": {
+      "main": 0
+    },
+    "byBlocks": {}
+  }
+}
